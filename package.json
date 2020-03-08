@@ -1,0 +1,24 @@
+{
+  "name": "lime-cli",
+  "version": "0.0.1",
+  "description": "lime 前端构建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lime-yard/lime-cli.git"
+  },
+  "keywords": [
+    "lime",
+    "前端",
+    "脚手架"
+  ],
+  "author": "laxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lime-yard/lime-cli/issues"
+  },
+  "homepage": "https://github.com/lime-yard/lime-cli#readme"
+}
