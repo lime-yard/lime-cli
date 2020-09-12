@@ -30,7 +30,7 @@
     "mkdirp": "^0.5.1",
     "mockjs": "^1.0.1-beta3",
     "my-ip": "^1.1.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "open": "^0.0.5",
     "parse-git-config": "^1.1.1",
     "path": "^0.12.7",
